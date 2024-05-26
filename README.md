@@ -24,23 +24,27 @@ This repository contains two Bash scripts for installing ZeroTier One and its GU
 **Installing `install-zerotier.sh`**
 
 ```console
-curl -sSL [https://raw.githubusercontent.com/ElJoker63/Zerotier/main/install-zerotier.sh](https://raw.githubusercontent.com/ElJoker63/Zerotier/main/install-zerotier.sh) > install-zerotier.sh```
+curl -sSL https://raw.githubusercontent.com/ElJoker63/Zerotier/main/install-zerotier.sh > install-zerotier.sh
+```
 
 ```console
-chmod +x install-zerotier.sh```
+chmod +x install-zerotier.sh
+```
 
 ```console
-sudo ./install-zerotier.sh```
+sudo ./install-zerotier.sh
+```
 
 **Installing `install-gui.sh`**
 
 ```console
-curl -sSL [https://raw.githubusercontent.com/ElJoker63/Zerotier/main/install-gui.sh](https://raw.githubusercontent.com/ElJoker63/Zerotier/main/install-gui.sh) > install-gui.sh```
-
-**Permi
-
-```console
-chmod +x install-gui.sh```
+curl -sSL https://raw.githubusercontent.com/ElJoker63/Zerotier/main/install-gui.sh > install-gui.sh
+```
 
 ```console
-sudo ./install-gui.sh```
+chmod +x install-gui.sh
+```
+
+```console
+sudo ./install-gui.sh
+```
