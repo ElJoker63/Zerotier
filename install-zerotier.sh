@@ -48,8 +48,8 @@ fi
 
 # (Optional) Enable and start ZeroTier One service
 # Uncomment the following lines to enable and start the service automatically
-# echo "Enabling and starting ZeroTier One service..."
-# sudo systemctl enable zerotier-one
+echo "Enabling and starting ZeroTier One service..."
+sudo systemctl enable zerotier-one
 # sudo systemctl start zerotier-one
 
 # Exit script
