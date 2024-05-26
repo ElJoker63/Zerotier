@@ -1,3 +1,10 @@
+<div align="center">
+    <img src="https://www.zerotier.com/wp-content/uploads/2024/04/ZT-Primary-Logo%E2%80%93Gold-White.svg">
+</div>
+<div align="center">
+    <img src="https://www.zerotier.com/wp-content/uploads/2024/04/White_Linux_Logo_37b96a6db6-1.webp">
+</div>
+
 ## ZeroTier Installation Scripts
 
 ### Overview
